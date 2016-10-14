@@ -19,8 +19,15 @@ h3 {
 .container {
   color: black;
   font-weight: bolder;
+  border: 5px solid black;
 }
 
 h2 {
   color: orange;
+}
+
+#welcome {
+  margin-top: 15px;
+  color: white;
+  font-family: 'Almendra SC', serif;
 }
