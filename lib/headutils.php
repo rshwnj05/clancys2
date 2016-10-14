@@ -6,3 +6,4 @@ crossorigin="anonymous">
 
 <link href="https://fonts.googleapis.com/css?family=Bungee+Inline" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Almendra+SC" rel="stylesheet">
+<link rel="stylesheet" href="lib/css/menu.css">

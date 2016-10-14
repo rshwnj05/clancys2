@@ -1,0 +1,33 @@
+h1 {
+  color: black;
+  font-style: oblique;
+}
+
+h3 {
+  color: black;
+  font-style: oblique;
+}
+
+#jumbotron1 {
+  background: url('http://tinyurl.com/h7yan7q') no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  height: 600px;
+  border: 5px solid black;
+}
+
+.container {
+  color: black;
+  font-weight: bolder;
+  border: 5px solid black;
+}
+
+h2 {
+  color: orange;
+}
+
+#welcome {
+  margin-top: 15px;
+  color: white;
+  font-family: 'Almendra SC', serif;
+}
