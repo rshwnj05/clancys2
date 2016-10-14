@@ -1,0 +1,15 @@
+#jumbotron1 {
+    background: url('http://tinyurl.com/hcxn3jh') no-repeat center center;
+    background-size: cover;
+    text-align: center;
+    height: 300px;
+    border: 5px solid black;
+}
+
+#headText {
+    color: black;
+    margin-bottom: 30px;
+    font-size: 10em;
+    font-family: 'Yellowtail', cursive;
+    text-shadow: 3px 3px red;
+}
